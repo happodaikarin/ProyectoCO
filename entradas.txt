@@ -1,0 +1,46 @@
+entrada ejemplo
+    4
+    3
+    Grasa_azul 20000 2 3 9
+    Grasa_amarilla 50000 3 9 9
+    Grasa_negra 30000 2 0 4
+    Grasa_blanca 30000 1 2 0
+    Materia_prima_1 1000 300
+    Materia_prima_2 2500 400
+    Materia_prima_3 4000 520
+
+entrada sustancia
+3
+4
+Sustancia_A 40000 5 3 2 4
+Sustancia_B 35000 2 6 1 3
+Sustancia_C 30000 3 4 5 2
+Material1 1500 500
+Material2 2000 600
+Material3 2500 550
+Material4 3000 450
+
+
+entrada compuesto
+6
+3
+Compuesto_X1 32000 2 5 3
+Compuesto_X2 36000 3 2 6
+Compuesto_X3 34000 4 3 2
+Compuesto_X4 31000 1 4 5
+Compuesto_X5 33000 2 1 3
+Compuesto_X6 35000 3 3 4
+Recurso_A 1000 300
+Recurso_B 2000 400
+Recurso_C 1500 350
+
+entrdas
+4
+2
+Químico_Y1 28000 3 1 4
+Químico_Y2 26000 2 2 3
+Químico_Y3 24000 1 3 2
+Químico_Y4 30000 4 2 1
+Ingrediente_1 500 200
+Ingrediente_2 700 250
+
